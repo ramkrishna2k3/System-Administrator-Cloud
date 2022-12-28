@@ -1,2 +1,2 @@
-# System-Administrator-Cloud
+# System-Administrator-AWS Cloud
 Terraform scripts 
